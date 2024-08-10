@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammad-stack
 - 👀 I’m interested in Full-Stack Web Development and Artifical Intelligence
-- 🌱 I’m currently learning Next.js, Tailwind Css , Sanity.io , Stripe , Postgresql , Shadcn Ui , Neon , Drizzle Orm
+- 🌱 I’m currently learning Next.js, Tailwind Css , Sanity.io , Stripe , Postgresql , Shadcn Ui , Neon , Drizzle Orm ,FastApi , SQLModel , Deployments on Azure  
 - 📫 You can Reach Me at nasi18994@gmail.com
 - ⚡ Fun fact: I am a Engineering Student doing Development
 
