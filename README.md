@@ -2,7 +2,7 @@
 
 ## I'm [Syed Muhammad Ali Kazmi]
 
-I am a software developer with over a [year of experience] in developing web applications. I am passionate about creating clean and efficient code that delivers a great user experience. I am always looking for new challenges and enjoy working with a team to find innovative solutions to complex problems.
+I am a software developer with over a year of experience in developing web applications. I am passionate about creating clean, efficient code that delivers a great user experience. I always seek new challenges and enjoy working with a team to find innovative solutions to complex problems.
 
 ## Skills
 
