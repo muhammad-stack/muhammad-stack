@@ -6,7 +6,7 @@ I am a software developer with over a year of experience in developing web appli
 
 ## Skills
 
-### 🖥️ Programming and Markup Languages
+###  Programming and Markup Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/-CSS-1572b6?style=flat-square&logo=css3)
@@ -25,14 +25,14 @@ I am a software developer with over a year of experience in developing web appli
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### 🗄️ Databases and Cloud Hosting
+###  Databases and Cloud Hosting
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 
-### 🚀 AI and Machine Learning
+### AI and Machine Learning
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-000000?style=flat-square)
 ![LLaMA](https://img.shields.io/badge/-LLaMA-000000?style=flat-square)
